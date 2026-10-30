@@ -42,4 +42,4 @@ A URL with no detected warning signs may still be malicious.
 
 ## Author
 Name: Sanjay Kushwaha
-Batch: [Enter your batch]
+Batch: Ewb AI POWERED CYBERSECURITY INTERNSHIP
